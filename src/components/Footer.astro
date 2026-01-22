@@ -21,7 +21,7 @@ const localePath = currentLocale !== 'en' && `${currentLocale}/` || ''
         <nav>
           <ul>
             {
-              navigationItems?.data.items.map((item) => (
+              navigationItems?.data.items.filter((item) => (item.parts.includes('footer'))).map((item) => (
                 <li>
                   <a href={`${base_url}${item.path}`} aria-current={pathname === `${base_url}${item.path}`}>{item.item_name}</a>
                 </li>
