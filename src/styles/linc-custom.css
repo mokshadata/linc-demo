@@ -400,11 +400,11 @@ img[alt$="Access Health"] {
   padding-top: 2rem;
 }
 
-.privacy-policy > .container > ol {
-  margin-left: -2rem;
+.privacy-policy > .container > .content > ol {
+  margin-left: -1rem;
 }
 
-.privacy-policy > .container > ol > li > ol {
+.privacy-policy > .container > .content > ol > li > ol {
   list-style-type: lower-alpha;
 }
 
