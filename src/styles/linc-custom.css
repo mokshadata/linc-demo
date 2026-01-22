@@ -399,3 +399,21 @@ img[alt$="Access Health"] {
   max-width: 400px;
   padding-top: 2rem;
 }
+
+.privacy-policy > .container > .content > ol {
+  margin-left: -1rem;
+}
+
+.privacy-policy > .container > .content > ol > li > ol {
+  list-style-type: lower-alpha;
+}
+
+.privacy-policy li::marker,
+.privacy-policy li > p:first-of-type {
+  font-weight: 800;
+  margin-bottom: 0;
+}
+
+.privacy-policy ol ul {
+  margin-top: -1rem;
+}

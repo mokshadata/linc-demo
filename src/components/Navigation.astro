@@ -9,7 +9,7 @@ const navigationItems = await getEntry('menus', `${currentLocale}/navigation`)
 ---
 
 <ul class="nav-links">
-  {navigationItems?.data.items.map((item) => (
+  {navigationItems?.data.items.filter((item) => (item.parts.includes('header'))).map((item) => (
     <NavigationItem href={`${base_url}${item.path}`}>{item.item_name}</NavigationItem>
   ))}
 </ul>
