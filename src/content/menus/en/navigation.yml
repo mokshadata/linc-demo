@@ -1,7 +1,13 @@
 items:
   - item_name: How Does It Work
     path: get-started/
+    parts: ['header', 'footer']
   - item_name: About Fort Bend LINC
     path: about/
+    parts: ['header', 'footer']
   - item_name: FAQs
     path: faqs/
+    parts: ['header', 'footer']
+  - item_name: Privacy Policy
+    path: privacy-policy/
+    parts: ['footer']

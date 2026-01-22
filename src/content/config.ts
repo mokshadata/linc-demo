@@ -92,6 +92,7 @@ const menusCollection = defineCollection({
     items: z.array(z.object({
       item_name: z.string(),
       path: z.string(),
+      parts: z.array(z.string()),
     }))
   })
 })
