@@ -8,7 +8,7 @@ import icon from "astro-icon";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://rent.fortbendlinc.org',
+  site: 'https://fortbendlinc.org',
   // trailingSlash: 'always',
   integrations: [react(), icon(), mdx(), sitemap()
     ,
