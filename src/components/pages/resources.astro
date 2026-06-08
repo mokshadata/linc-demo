@@ -1,0 +1,72 @@
+---
+import BaseLayout from "@layouts/BaseLayout.astro";
+import GetStarted from "@components/GetStarted.astro";
+
+import { Image } from "astro:assets";
+import { getEntry, getCollection } from "astro:content";
+import type { ImageMetadata } from 'astro';
+
+const { currentLocale } = Astro.props || 'en';
+
+const organizationsLogos = import.meta.glob<{ default: ImageMetadata }>('@assets/images/orgs/*.{jpeg,jpg,png,gif}');
+const organizations = (await getCollection("orgs", (item) => {
+  return item.id.includes(`${currentLocale}/`)
+})).toSorted((a, b) => (a.data.order || 0) - (b.data.order || 0));
+
+const aboutSection = await getEntry('parts', `${currentLocale}/08-resources`)
+const aboutSectionWithContent = {
+  ...aboutSection,
+  ...await aboutSection?.render(),
+}
+---
+
+<BaseLayout pageTitle={aboutSectionWithContent.data?.page_title || 'Fort Bend LINC'} currentLocale={currentLocale}>
+  <main data-page="index">
+    <section class="title-section">
+      <div class="container">
+        <div class="grid">
+          <div class="content intro">
+            <h1>{aboutSectionWithContent.data?.headline}</h1>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="about">
+      <aboutSectionWithContent.Content/>
+      <div class="container">
+        <div class="grid partners">
+          {organizations
+            .map((org) => (
+              <div class="partner">
+                <a href={org.data.website || '#'} target="_blank">
+                  <Image src={organizationsLogos[`/src/assets/images/orgs/${org.data.logo}`]()} alt={org.data.alt || ''} title={org.data.title || ''}/>
+                </a>
+              </div>
+            ))}
+        </div>
+      </div>
+    </section>
+    <GetStarted currentLocale={currentLocale}/>
+  </main>
+</BaseLayout>
+
+<style>
+.about :global(img) {
+  display: block;
+  padding-bottom: 3rem;
+  margin: auto;
+}
+
+.about > :global(section):nth-child(2n) {
+  background-color: var(--seashell);
+}
+
+.emphasis {
+  font-weight: 800;
+  font-style: italic;
+}
+
+.about {
+  padding: 4rem 0;
+}
+</style>
