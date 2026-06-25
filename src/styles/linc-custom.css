@@ -427,3 +427,19 @@ img[alt$="Access Health"] {
 .privacy-policy ol ul {
   margin-top: -1rem;
 }
+
+.resource-contact-list > ul {
+  padding-left: 0.5em;
+}
+
+.resource-contact-list > ul > li {
+  margin-bottom: 2rem;
+}
+
+.resource-contact-list ul ul {
+  margin-bottom: 0;
+}
+
+.resource-contact-list li {
+  list-style: none;
+}

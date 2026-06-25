@@ -5,6 +5,9 @@ items:
   - item_name: Acerca de Fort Bend LINC
     path: es/about/
     parts: ['header', 'footer']
+  - item_name: Recursos
+    path: es/resources/
+    parts: ['header', 'footer']
   - item_name: FAQs
     path: es/faqs/
     parts: ['header', 'footer']
