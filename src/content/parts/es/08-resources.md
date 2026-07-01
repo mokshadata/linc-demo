@@ -11,14 +11,14 @@ page_title: "Fort Bend LINC es un grupo de organizaciones sin ánimo de lucro qu
 
 <section><div class="container"><div class="content">
 
-Fort Bend LINC colabora con organizaciones comunitarias de todo el condado de Fort Bend para ayudar a conectar a los residentes con recursos esenciales. Si bien los fondos para asistencia con el alquiler pueden ser limitados, es posible que aún haya servicios de apoyo adicionales disponibles a través de nuestra red de colaboradores y otras organizaciones locales. Si atraviesa dificultades, le animamos a explorar los recursos que se indican a continuación.
+Fort Bend LINC colabora con organizaciones comunitarias de todo el condado de Fort Bend para ayudar a conectar a los residentes con recursos esenciales. Si bien los fondos para asistencia con el alquiler pueden ser limitados, es posible que aún haya servicios de apoyo adicionales disponibles a través de nuestra red de colaboradores y otras organizaciones locales. Si está teniendo dificultades, le animamos a explorar los recursos que se indican a continuación.
 
 </div></div></section>
 <section><div class="container"><div class="content">
 
 ## Asistencia alimentaria
 
-Varios de nuestros socios comunitarios operan bancos de alimentos o programas de distribución de alimentos para personas y familias que enfrentan inseguridad alimentaria. Los servicios pueden incluir:
+Varios de nuestros socios comunitarios operan bancos de alimentos o programas de distribución de alimentos para personas y familias que no tienen suficiente comida. Los servicios pueden incluir:
 
 * Cajas de alimentos de emergencia
 * Distribución de productos frescos
@@ -64,7 +64,7 @@ Varios de nuestros socios comunitarios operan bancos de alimentos o programas de
 AccessHealth es un centro de salud comunitario que ofrece servicios médicos a cualquier persona, independientemente de su situación de seguro o de su capacidad de pago. Los residentes pueden acceder a:
 
 * Atención médica primaria para adultos y niños
-* Servicios de salud conductual, salud mental y apoyo en situaciones de crisis
+* Servicios de salud mental y apoyo en situaciones de crisis
 * Servicios de apoyo relacionados con el VIH
 * Servicios de salud para la mujer
 * Asistencia para medicamentos recetados
@@ -85,6 +85,7 @@ Varias de nuestras organizaciones asociadas brindan apoyo a familias y personas 
 * Programas para jóvenes y familias
 * Consejería de salud mental
 * Asesoramiento para la estabilidad financiera
+* El tema legal que tien
 * Servicios para personas mayores
 * Apoyo a veteranos
 * Tiendas de artículos de segunda mano
@@ -103,17 +104,18 @@ Varias de nuestras organizaciones asociadas brindan apoyo a familias y personas 
   * Obtenga más información llamando al [713-777-5059](tel:7137775059) o visitando [rupanifoundationusa.org](https://rupanifoundationusa.org). 
   * **Dirección**: [8303 Southwest Fwy Ste 495, Houston, TX 77074](https://maps.app.goo.gl/cVfiAofUVArMgYDo9)
 * **Fort Bend Family Promise**
-  * Apoya a las familias con servicios integrales tanto para padres como para hijos. Es necesario aceptar recibir apoyo continuo de gestión de casos. 
+  * Apoya a las familias con servicios integrales tanto para padres como para hijos. Es necesario aceptar apoyo continuo de gestión de casos. 
   * Obtenga más información llamando al [281-403-3923](tel:2814033923).
   * **Campus Este (East Campus)**: [4645 Cartwright Rd, Missouri City, TX 77459](https://maps.app.goo.gl/qsykcFxRjijf2Tzd9)
   * **Campus Oeste (West Campus)**: [1002 Wilson Dr, Rosenberg, TX 77471](https://maps.app.goo.gl/tuKdYdnoAGSwD6U69)
 * **East Fort Bend Human Needs Ministry**
-  * Ofrece bolsas de cumpleaños para niños y cuenta con una tienda de reventa donde puede encontrar una gran variedad de artículos. 
+  * Ofrece bolsas de cumpleaños para niños y hay con una tienda de reventa donde puede encontrar una gran variedad de artículos asequibles.
   * Obtenga más información llamando al [281-499-8833](tel:2814998833). 
   * **Tienda de reventa**: [425 Stafford Run Rd, Stafford, TX 77477](https://maps.app.goo.gl/FFMU5c1U6pcHwxJ49)
 * **AccessHealth**
   * El Departamento de Coordinación de Atención ayuda a los pacientes a acceder a recursos comunitarios locales en su área. 
   * Obtenga más información sobre la Coordinación de Atención llamando al [832-957-6187](tel:8329576187).
+  * El programa Medical-Legal Partnership ayuda a los pacientes de AccessHealth con sus necesidades legales en materia civil. Para registrarse como paciente, llame al [281-342-4530](tel:2813424530).
 * **Servicios Sociales del Condado de Fort Bend (Fort Bend County Social Services)**
   * Ofrece apoyo a veteranos, gestión de casos y asistencia financiera temporal.
   * **Oficina de Missouri City**:

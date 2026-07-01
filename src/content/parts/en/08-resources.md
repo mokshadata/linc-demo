@@ -62,7 +62,7 @@ Several of our community partners operate food pantries or food distribution pro
 AccessHealth is a Community Health Center that provides healthcare services to anyone regardless of insurance status or ability to pay. Residents may have access to:
 
 * Primary medical care for adults & children
-* Behavioral Health Mental Health & Crisis Support
+* Mental Health & Crisis Support
 * HIV support services
 * Women’s Health Services
 * Prescription medication assistance
@@ -83,6 +83,7 @@ Several of our partners support families and individuals through various program
 * Youth and family programs
 * Mental Health Counseling
 * Financial Stability Coaching
+* Civil legal aid
 * Senior services
 * Veterans support
 * Resale Shops
@@ -112,6 +113,7 @@ Several of our partners support families and individuals through various program
 * **AccessHealth**
   * The Care Coordination Department assists patients with accessing local community resources in their area.
   * Learn more about Care Coordination by calling [832-957-6187](tel:8329576187).
+  * The Medical-Legal Partnership program helps patients of AccessHealth with civil legal needs. To become a patient please call [281-342-4530](tel:2813424530).
 * **Fort Bend County Social Services**
   * Provides veteran support, case management and temporary financial assistance.
   * **Missouri City Office**:
