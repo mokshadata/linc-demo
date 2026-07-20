@@ -1,7 +1,7 @@
 ---
 headline: Recursos Comunitarios de Fort Bend
 location: Resources page
-url: rent.fortbendlinc.org/resources
+url: fortbendlinc.org/resources
 cms_order: 8
 preview_path_part: resources
 page_title: "Fort Bend LINC es un grupo de organizaciones sin ánimo de lucro que

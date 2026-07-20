@@ -1,7 +1,7 @@
 ---
 headline: Community Resources in Fort Bend
 location: Resources page
-url: rent.fortbendlinc.org/resources
+url: fortbendlinc.org/resources
 cms_order: 8
 preview_path_part: resources
 page_title: "Fort Bend LINC is a group of nonprofit organizations working together to connect resources to anyone who calls Fort Bend County home."
